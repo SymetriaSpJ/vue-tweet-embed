@@ -33,7 +33,7 @@ import { Tweet } from 'vue-tweet-embed'
 <Tweet id="14"></Tweet>	// test tweet not available or deleted
 ```
 
-You don't have to put `//platform.twitter.com/widgets.js` script in your index.html as this lib will
+You don't have to put `https://platform.twitter.com/widgets.js` script in your index.html as this lib will
 put it there if `twttr` is not found on window.  
 
 
